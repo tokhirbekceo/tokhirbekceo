@@ -1,6 +1,6 @@
 # 👋 Salom, men Tokhirbek <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="30" title="Server"/>
 
-💻 Backend Developer – Rust va Golang asosida ishonchli serverlar va mikroxizmatlar quraman  
+💻 Backend Developer – Python, Golang va Rust asosida ishonchli serverlar va mikroxizmatlar quraman  
 🛡 Secure Software Enthusiast – dasturlarni nafaqat samarali, balki xavfsiz yozishni maqsad qilganman  
 🚀 Cyber Security bilimlarini amaliyotga tatbiq etib, xavfsiz backend tizimlar ishlab chiqishga intilaman  
 📍 O‘zbekiston  
@@ -63,13 +63,7 @@
       <li>Interpreter yozish tajribasi</li>
     </ul>
   </li>
-  <li>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript
-    <ul>
-      <li>Node.js</li>
-      <li>Express.js</li>
-    </ul>
-  </li>
+
 </ul>
 
 ### 🗄 Ma’lumotlar bazalari
@@ -182,13 +176,6 @@
   </li>
 </ul>
 
----
-
-## 📌 Loyihalarim
-- [http-auth](https://github.com/tokhirbek/http-auth) – Go’da yozilgan auth servisi  
-- [vela-project](https://github.com/tokhirbek/vela-project) – Rust asosidagi interpreter loyihasi  
-
----
 
 ## 📫 Bog‘lanish
 - Telegram: [@username](https://t.me/username)  
