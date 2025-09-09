@@ -6,7 +6,7 @@
 
 ---
 
-<!-- Animated Snake (inline SVG) -->
+
 <div align="center">
   <svg width="480" height="80" viewBox="0 0 480 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Snake animation">
     <!-- background -->
