@@ -1,17 +1,11 @@
-# 👋 Salom, men Tokhirbek
+# 👋 Salom, men Tokhirbek <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="30" title="Server"/>
 
 💻 Backend Developer – Rust va Golang asosida ishonchli serverlar va mikroxizmatlar quraman  
 🛡 Secure Software Enthusiast – dasturlarni nafaqat samarali, balki xavfsiz yozishni maqsad qilganman  
 🚀 Cyber Security bilimlarini amaliyotga tatbiq etib, xavfsiz backend tizimlar ishlab chiqishga intilaman  
 📍 O‘zbekiston  
 
----
 
-
-<p align="center">
-  <!-- Server -->
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="30" title="Server"/>
-</p>
 
 ---
 
