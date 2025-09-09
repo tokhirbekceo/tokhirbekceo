@@ -81,10 +81,8 @@
   </li>
 </ul>
 
-    </td>
-
-    <!-- O‘ng taraf: Python -->
-    <td valign="top" width="50%">
+</td>
+<td valign="top" width="50%">
 
 ### 🐍 Python
 <ul>
@@ -123,8 +121,8 @@
   </li>
 </ul>
 
-    </td>
-  </tr>
+  </td>
+</tr>
 </table>
 
 
