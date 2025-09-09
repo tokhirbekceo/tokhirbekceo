@@ -122,10 +122,10 @@
 </ul>
 
   </td>
-    <!-- Chap taraf: SQL -->
-  ## 🗄 Ma'lumotlar Boshqaruv Tizimlari (DBMS)
 
-    <!-- Chap taraf: SQL -->
+  ##🗄 Ma'lumotlar Boshqaruv Tizimlari (DBMS)
+
+
   <td valign="top" width="40%">
 
 ### 🔷 SQL DBMS
