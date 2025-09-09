@@ -1,9 +1,47 @@
 # 👋 Salom, men Tokhirbek
 
-💻 Backend Developer bo‘lish yo‘lida izlanayotgan dasturchi  
-🚀 Rust va Golang asosida backend tizimlar qurishga qiziqaman  
-🛡 Cyber Security sohasiga ham qiziqaman  
+💻 Backend Developer (Rust, Go) — ishonchli serverlar va mikroxizmatlar yarataman  
+🛡 Secure Systems Enthusiast — xavfsiz, barqaror yechimlar yozishga intilaman  
 📍 O‘zbekiston
+
+---
+
+<!-- Animated Snake (inline SVG) -->
+<div align="center">
+  <svg width="480" height="80" viewBox="0 0 480 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Snake animation">
+    <!-- background -->
+    <rect width="100%" height="100%" fill="transparent"/>
+    <!-- snake body: repeating circles in a group that translates left->right -->
+    <g id="snake" transform="translate(-120,40)">
+      <circle cx="0"  cy="0" r="8" fill="#16a34a" />
+      <circle cx="18" cy="0" r="8" fill="#22c55e" />
+      <circle cx="36" cy="0" r="8" fill="#16a34a" />
+      <circle cx="54" cy="0" r="8" fill="#22c55e" />
+      <circle cx="72" cy="0" r="8" fill="#16a34a" />
+      <!-- head -->
+      <circle cx="90" cy="0" r="9" fill="#165f3d" />
+    </g>
+
+    <!-- animate group: moves horizontally in a loop -->
+    <animateTransform 
+      xlink:href="#snake"
+      attributeName="transform"
+      type="translate"
+      from="-120 40"
+      to="540 40"
+      dur="3.5s"
+      repeatCount="indefinite" />
+
+    <!-- simple "food" that blinks -->
+    <circle cx="400" cy="40" r="6" fill="#ef4444">
+      <animate attributeName="r" values="6;9;6" dur="1.2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.6;1" dur="1.2s" repeatCount="indefinite" />
+    </circle>
+  </svg>
+</div>
+
+---
+
 
 ---
 
