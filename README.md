@@ -5,42 +5,39 @@
 📍 O‘zbekiston
 
 ---
-
-
 <div align="center">
-  <svg width="480" height="80" viewBox="0 0 480 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Snake animation">
-    <!-- background -->
-    <rect width="100%" height="100%" fill="transparent"/>
-    <!-- snake body: repeating circles in a group that translates left->right -->
-    <g id="snake" transform="translate(-120,40)">
-      <circle cx="0"  cy="0" r="8" fill="#16a34a" />
-      <circle cx="18" cy="0" r="8" fill="#22c55e" />
-      <circle cx="36" cy="0" r="8" fill="#16a34a" />
-      <circle cx="54" cy="0" r="8" fill="#22c55e" />
-      <circle cx="72" cy="0" r="8" fill="#16a34a" />
-      <!-- head -->
-      <circle cx="90" cy="0" r="9" fill="#165f3d" />
-    </g>
+  <svg width="500" height="140" viewBox="0 0 500 140" xmlns="http://www.w3.org/2000/svg">
 
-    <!-- animate group: moves horizontally in a loop -->
-    <animateTransform 
-      xlink:href="#snake"
-      attributeName="transform"
-      type="translate"
-      from="-120 40"
-      to="540 40"
-      dur="3.5s"
-      repeatCount="indefinite" />
+    <!-- Server -->
+    <rect x="40" y="40" width="80" height="60" rx="8" fill="#2563eb" />
+    <text x="80" y="75" text-anchor="middle" fill="white" font-size="12" font-family="monospace">Server</text>
 
-    <!-- simple "food" that blinks -->
-    <circle cx="400" cy="40" r="6" fill="#ef4444">
-      <animate attributeName="r" values="6;9;6" dur="1.2s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.6;1" dur="1.2s" repeatCount="indefinite" />
+    <!-- Client -->
+    <rect x="380" y="40" width="80" height="60" rx="8" fill="#16a34a" />
+    <text x="420" y="75" text-anchor="middle" fill="white" font-size="12" font-family="monospace">Client</text>
+
+    <!-- Network cloud -->
+    <ellipse cx="250" cy="70" rx="60" ry="30" fill="#e5e7eb" stroke="#9ca3af" stroke-width="1.5"/>
+    <text x="250" y="75" text-anchor="middle" fill="#374151" font-size="12" font-family="monospace">Network</text>
+
+    <!-- Arrows -->
+    <line x1="120" y1="70" x2="190" y2="70" stroke="#2563eb" stroke-width="2" marker-end="url(#arrow)" />
+    <line x1="310" y1="70" x2="380" y2="70" stroke="#16a34a" stroke-width="2" marker-end="url(#arrow)" />
+
+    <!-- Data packet (circle that moves along arrow path) -->
+    <circle r="6" fill="#f97316">
+      <animateMotion dur="3s" repeatCount="indefinite" path="M120,70 L190,70 L310,70 L380,70" />
     </circle>
+
+    <!-- Arrow marker -->
+    <defs>
+      <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+        <path d="M0,0 L0,6 L9,3 z" fill="#6b7280" />
+      </marker>
+    </defs>
+
   </svg>
 </div>
-
----
 
 
 ---
