@@ -7,11 +7,20 @@
 
 ---
 
-## 🌐 Vizual intro
+## 🌐 Vizual Intro
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/network.gif" alt="Network Animation" width="500"/>
-</div>
+<p align="center">
+  <!-- Linux -->
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="150" title="Linux"/>
+  <!-- Server -->
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="150" title="Server"/>
+  <!-- System -->
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="150" title="System"/>
+  <!-- Network -->
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="150" title="Network"/>
+</p>
+
+---
 
 
 ## 🔧 Texnologiyalar
