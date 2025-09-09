@@ -43,8 +43,8 @@
 
 <table>
   <tr>
-    <!-- Chap taraf: Go -->
-    <td valign="top" width="50%">
+
+  <td valign="top" width="50%">
 
 ### 🟦 Golang
 <ul>
@@ -125,7 +125,7 @@
 ## 🗄 Ma'lumotlar Boshqaruv Tizimlari (DBMS)
 
     <!-- Chap taraf: SQL -->
-    <td valign="top" width="50%">
+  <td valign="top" width="50%">
 
 ### 🔷 SQL DBMS
 <ul>
@@ -167,10 +167,10 @@
   </li>
 </ul>
 
-    </td>
+  </td>
 
     <!-- O‘ng taraf: NoSQL -->
-    <td valign="top" width="50%">
+  <td valign="top" width="50%">
 
 ### 🟩 NoSQL DBMS
 <ul>
