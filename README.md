@@ -7,17 +7,10 @@
 
 ---
 
-## 🌐 Vizual Intro
 
 <p align="center">
-  <!-- Linux -->
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="150" title="Linux"/>
   <!-- Server -->
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="150" title="Server"/>
-  <!-- System -->
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="150" title="System"/>
-  <!-- Network -->
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="150" title="Network"/>
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="30" title="Server"/>
 </p>
 
 ---
