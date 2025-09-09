@@ -5,13 +5,12 @@
 🚀 Cyber Security bilimlarini amaliyotga tatbiq etib, xavfsiz backend tizimlar ishlab chiqishga intilaman  
 📍 O‘zbekiston  
 
-## 📂 Loyihalar & 📚 Maqolalar
 
 <table>
   <tr>
     <td>
 
-### 🚀 Loyihalarim
+### 📂 Loyihalarim
 - [http-auth](https://github.com/tokhirbek/http-auth) – Go’da yozilgan auth servisi  
 - [vela-project](https://github.com/tokhirbek/vela-project) – Rust asosidagi interpreter loyihasi  
 - [my-django-app](https://github.com/tokhirbek/my-django-app) – Django asosida CRUD ilova  
@@ -20,7 +19,7 @@
     </td>
     <td>
 
-### ✍️ Maqolalarim
+### 📚 Maqolalarim
 - [Rust’da oddiy interpreter yozish](https://github.com/tokhirbek/blog/rust-interpreter.md)  
 - [Go’da JWT bilan autentifikatsiya](https://github.com/tokhirbek/blog/go-jwt-auth.md)  
 - [PostgreSQL optimizatsiya bo‘yicha maslahatlar](https://github.com/tokhirbek/blog/postgres-optimization.md)  
