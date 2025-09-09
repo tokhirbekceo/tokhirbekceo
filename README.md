@@ -26,6 +26,14 @@
 - [Cyber Security – OWASP Top 10 tushuntirish](https://github.com/tokhirbek/blog/owasp-top10.md)  
 
     </td>
+    <td>
+      ### 📚 Sertifikatlar
+- [Rust’da oddiy interpreter yozish](https://github.com/tokhirbek/blog/rust-interpreter.md)  
+- [Go’da JWT bilan autentifikatsiya](https://github.com/tokhirbek/blog/go-jwt-auth.md)  
+- [PostgreSQL optimizatsiya bo‘yicha maslahatlar](https://github.com/tokhirbek/blog/postgres-optimization.md)  
+- [Cyber Security – OWASP Top 10 tushuntirish](https://github.com/tokhirbek/blog/owasp-top10.md)  
+
+    </td>
   </tr>
 </table>
 
