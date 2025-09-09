@@ -122,7 +122,97 @@
 </ul>
 
   </td>
-</tr>
+## 🗄 Ma'lumotlar Boshqaruv Tizimlari (DBMS)
+
+    <!-- Chap taraf: SQL -->
+    <td valign="top" width="50%">
+
+### 🔷 SQL DBMS
+<ul>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="20"/> SQLite
+    <ul>
+      <li>Engil, fayl asosidagi DB</li>
+      <li>Kichik loyihalar va mobil ilovalar uchun</li>
+    </ul>
+  </li>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20"/> PostgreSQL
+    <ul>
+      <li>ACID muvofiqligi</li>
+      <li>JSONB qo‘llab-quvvatlash</li>
+      <li>Katta loyihalar uchun</li>
+    </ul>
+  </li>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> MySQL / MariaDB
+    <ul>
+      <li>Web loyihalarda keng qo‘llaniladi</li>
+      <li>MariaDB → MySQL fork</li>
+    </ul>
+  </li>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="20"/> MS SQL Server
+    <ul>
+      <li>Korporativ tizimlar uchun</li>
+      <li>.NET integratsiyasi kuchli</li>
+    </ul>
+  </li>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="20"/> Oracle DB
+    <ul>
+      <li>Yirik enterprise loyihalarda</li>
+      <li>Kuchli xavfsizlik va optimizatsiya</li>
+    </ul>
+  </li>
+</ul>
+
+    </td>
+
+    <!-- O‘ng taraf: NoSQL -->
+    <td valign="top" width="50%">
+
+### 🟩 NoSQL DBMS
+<ul>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20"/> MongoDB
+    <ul>
+      <li>Dokument-yo‘naltirilgan DB</li>
+      <li>JSON formatda saqlash</li>
+    </ul>
+  </li>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="20"/> Redis
+    <ul>
+      <li>Kesh va real-time ma’lumotlar</li>
+      <li>Memory-based</li>
+    </ul>
+  </li>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" width="20"/> Cassandra
+    <ul>
+      <li>Katta hajmdagi ma’lumotlar uchun</li>
+      <li>Distributed architecture</li>
+    </ul>
+  </li>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="20"/> Firebase Realtime DB / Firestore
+    <ul>
+      <li>Serverless</li>
+      <li>Real-time sync</li>
+    </ul>
+  </li>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="20"/> Elasticsearch
+    <ul>
+      <li>Qidiruv va analytics</li>
+      <li>ELK stack qismi</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+  </tr>
 </table>
 
 
