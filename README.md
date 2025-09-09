@@ -126,7 +126,7 @@
   ## 🗄 Ma'lumotlar Boshqaruv Tizimlari (DBMS)
 
     <!-- Chap taraf: SQL -->
-    <td valign="top" width="50%">
+  <td valign="top" width="50%">
 
 ### 🔷 SQL DBMS
 <ul>
