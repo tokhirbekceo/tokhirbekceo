@@ -4,7 +4,6 @@
 🛡 Secure Systems Enthusiast — xavfsiz, barqaror yechimlar yozishga intilaman  
 📍 O‘zbekiston
 
-
 <div align="center">
   <svg width="500" height="140" viewBox="0 0 500 140" xmlns="http://www.w3.org/2000/svg">
 
@@ -24,7 +23,7 @@
     <line x1="120" y1="70" x2="190" y2="70" stroke="#2563eb" stroke-width="2" marker-end="url(#arrow)" />
     <line x1="310" y1="70" x2="380" y2="70" stroke="#16a34a" stroke-width="2" marker-end="url(#arrow)" />
 
-    <!-- Data packet (circle that moves along arrow path) -->
+    <!-- Data packet -->
     <circle r="6" fill="#f97316">
       <animateMotion dur="3s" repeatCount="indefinite" path="M120,70 L190,70 L310,70 L380,70" />
     </circle>
