@@ -68,15 +68,40 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/> Docker
   </li>
   <li>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> Git & GitHub
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20"/> Kubernetes (k8s)
   </li>
   <li>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/> Linux
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="20"/> Amazon Web Services (EC2, S3, RDS, Lambda)
+  </li>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="20"/> Google Cloud Platform
+  </li>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> Git & GitHub (GitHub Actions)
+  </li>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="20"/> GitLab (CI/CD pipelines)
+  </li>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/> Linux (system administration, shell scripting)
   </li>
   <li>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20"/> Bash scripting
   </li>
+  <li>
+    <img src="https://img.icons8.com/color/48/cpanel.png" width="20"/> cPanel / WHM
+  </li>
+  <li>
+    <img src="https://img.icons8.com/color/48/nginx.png" width="20"/> Nginx & Apache (web server configuration)
+  </li>
+  <li>
+    <img src="https://img.icons8.com/color/48/terraform.png" width="20"/> Terraform (Infrastructure as Code)
+  </li>
+  <li>
+    <img src="https://img.icons8.com/color/48/ansible.png" width="20"/> Ansible (Automation & Configuration Management)
+  </li>
 </ul>
+
 
 ---
 
