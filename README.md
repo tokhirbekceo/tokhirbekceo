@@ -39,62 +39,96 @@
 
 ---
 
-## 🔧 Texnologiyalar & 🛡 Cyber Security
+## 🖥 Go & Python Texnologiyalari
 
 <table>
   <tr>
-    <!-- Chap taraf: Texnologiyalar -->
-    <td valign="top" width="30%">
+    <!-- Chap taraf: Go -->
+    <td valign="top" width="50%">
 
-### 🖥 Dasturlash tillari & Frameworklar
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python: FastAPI, Django, DRF, Aiogram3, Tkinter, WxPython  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20"/> Go: net/http, Gin, gRPC  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="20"/> Rust: CLI tools, Interpreter  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript: Node.js, Express.js  
-
-### 🗄 Ma’lumotlar bazalari
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20"/> PostgreSQL  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> MySQL / MariaDB  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20"/> MongoDB  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="20"/> SQLite  
-
-    </td>
-
-    <!-- O‘ng taraf: Cyber Security -->
-    <td valign="top" width="30%">
-
-### 🛡 Cyber Security
-- 🔎 <b>Penetration Testing</b>  
-  - <img src="https://img.icons8.com/fluency/48/burp-suite.png" width="20"/> Burp Suite  
-  - <img src="https://img.icons8.com/color/48/owasp.png" width="20"/> OWASP ZAP  
-  - <img src="https://img.icons8.com/ios/50/command-line.png" width="20"/> Nmap  
-  - <img src="https://img.icons8.com/ios/50/exploit.png" width="20"/> Metasploit  
-  - <img src="https://img.icons8.com/ios-filled/50/sql.png" width="20"/> sqlmap  
-
-- 📡 <b>Wireless & Bluetooth</b>  
-  - <img src="https://img.icons8.com/ios-filled/50/wifi.png" width="20"/> Aircrack-ng  
-  - <img src="https://img.icons8.com/ios/50/bluetooth.png" width="20"/> BlueMaho / Blue Hydra  
-  - <img src="https://img.icons8.com/ios-filled/50/radio-tower.png" width="20"/> Kismet  
-
-- 🌐 <b>Web App Security</b>  
-  - <img src="https://img.icons8.com/ios-filled/50/web.png" width="20"/> OWASP Top10  
-  - <img src="https://img.icons8.com/ios/50/penetration-testing.png" width="20"/> Nikto  
-  - <img src="https://img.icons8.com/ios/50/phishing.png" width="20"/> SET  
-
-- 🧪 <b>Reverse Engineering</b>  
-  - <img src="https://img.icons8.com/ios/50/code-file.png" width="20"/> Ghidra  
-  - <img src="https://img.icons8.com/ios/50/debugging.png" width="20"/> IDA / Radare2  
-  - <img src="https://img.icons8.com/ios-filled/50/assembly.png" width="20"/> Assembler  
-  - <img src="https://img.icons8.com/ios-filled/50/hacker.png" width="20"/> Exploit Dev  
-
-- 🕵️ <b>Digital Forensics & OSINT</b>  
-  - <img src="https://img.icons8.com/ios/50/search.png" width="20"/> Autopsy  
-  - <img src="https://img.icons8.com/ios/50/data-encryption.png" width="20"/> Volatility  
-  - <img src="https://img.icons8.com/ios/50/globe.png" width="20"/> Maltego  
+### 🟦 Golang
+<ul>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20"/> Go Core
+    <ul>
+      <li>net/http</li>
+      <li>database/sql</li>
+      <li>context</li>
+    </ul>
+  </li>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20"/> Go Web Frameworks
+    <ul>
+      <li>Gin</li>
+      <li>Echo</li>
+      <li>Fiber</li>
+    </ul>
+  </li>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20"/> ORM / DB Tools
+    <ul>
+      <li>GORM</li>
+      <li>sqlx</li>
+    </ul>
+  </li>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20"/> Others
+    <ul>
+      <li>gRPC</li>
+      <li>Viper (config)</li>
+      <li>Cobra (CLI)</li>
+    </ul>
+  </li>
+</ul>
 
     </td>
-    <td valign="top" width="30%">
-      
+
+    <!-- O‘ng taraf: Python -->
+    <td valign="top" width="50%">
+
+### 🐍 Python
+<ul>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python Core
+    <ul>
+      <li>asyncio</li>
+      <li>threading / multiprocessing</li>
+      <li>sqlite3 / psycopg2</li>
+    </ul>
+  </li>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Web Frameworks
+    <ul>
+      <li>Django</li>
+      <li>Flask</li>
+      <li>FastAPI</li>
+      <li>Starlette</li>
+    </ul>
+  </li>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> ORM / DB Tools
+    <ul>
+      <li>Django ORM</li>
+      <li>SQLAlchemy</li>
+      <li>Tortoise ORM</li>
+    </ul>
+  </li>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Others
+    <ul>
+      <li>Celery (task queue)</li>
+      <li>Pydantic / Marshmallow</li>
+      <li>Aiogram 3 (Telegram bots)</li>
+    </ul>
+  </li>
+</ul>
+
+    </td>
+  </tr>
+</table>
+
+
+
 ### ⚙️ Vositalar
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/> Docker  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20"/> Kubernetes (k8s)  
@@ -105,6 +139,3 @@
 - <img src="https://img.icons8.com/color/48/cpanel.png" width="20"/> cPanel / WHM  
 - <img src="https://img.icons8.com/color/48/nginx.png" width="20"/> Nginx / Apache  
 
-    </td>
-  </tr>
-</table>
