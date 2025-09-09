@@ -4,7 +4,7 @@
 🛡 Secure Systems Enthusiast — xavfsiz, barqaror yechimlar yozishga intilaman  
 📍 O‘zbekiston
 
----
+
 <div align="center">
   <svg width="500" height="140" viewBox="0 0 500 140" xmlns="http://www.w3.org/2000/svg">
 
@@ -40,7 +40,6 @@
 </div>
 
 
----
 
 ## 🔧 Texnologiyalar
 
