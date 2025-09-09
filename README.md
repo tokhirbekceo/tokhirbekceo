@@ -9,28 +9,26 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td>
 
-      ### 🚀 Loyihalarim
-      - [http-auth](https://github.com/tokhirbek/http-auth) – Go’da yozilgan auth servisi  
-      - [vela-project](https://github.com/tokhirbek/vela-project) – Rust asosidagi interpreter loyihasi  
-      - [my-django-app](https://github.com/tokhirbek/my-django-app) – Django asosida CRUD ilova  
-      - [go-grpc-service](https://github.com/tokhirbek/go-grpc-service) – gRPC asosidagi Go servisi  
+### 🚀 Loyihalarim
+- [http-auth](https://github.com/tokhirbek/http-auth) – Go’da yozilgan auth servisi  
+- [vela-project](https://github.com/tokhirbek/vela-project) – Rust asosidagi interpreter loyihasi  
+- [my-django-app](https://github.com/tokhirbek/my-django-app) – Django asosida CRUD ilova  
+- [go-grpc-service](https://github.com/tokhirbek/go-grpc-service) – gRPC asosidagi Go servisi  
 
     </td>
+    <td>
 
-    <td width="50%" valign="top">
-
-      ### ✍️ Maqolalarim
-      - [Rust’da oddiy interpreter yozish](https://github.com/tokhirbek/blog/rust-interpreter.md)  
-      - [Go’da JWT bilan autentifikatsiya](https://github.com/tokhirbek/blog/go-jwt-auth.md)  
-      - [PostgreSQL optimizatsiya bo‘yicha maslahatlar](https://github.com/tokhirbek/blog/postgres-optimization.md)  
-      - [Cyber Security – OWASP Top 10 tushuntirish](https://github.com/tokhirbek/blog/owasp-top10.md)  
+### ✍️ Maqolalarim
+- [Rust’da oddiy interpreter yozish](https://github.com/tokhirbek/blog/rust-interpreter.md)  
+- [Go’da JWT bilan autentifikatsiya](https://github.com/tokhirbek/blog/go-jwt-auth.md)  
+- [PostgreSQL optimizatsiya bo‘yicha maslahatlar](https://github.com/tokhirbek/blog/postgres-optimization.md)  
+- [Cyber Security – OWASP Top 10 tushuntirish](https://github.com/tokhirbek/blog/owasp-top10.md)  
 
     </td>
   </tr>
 </table>
-
 
 ---
 
