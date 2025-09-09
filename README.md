@@ -1,43 +1,17 @@
 # 👋 Salom, men Tokhirbek
 
-💻 Backend Developer (Rust, Go) — ishonchli serverlar va mikroxizmatlar yarataman  
-🛡 Secure Systems Enthusiast — xavfsiz, barqaror yechimlar yozishga intilaman  
-📍 O‘zbekiston
+💻 Backend Developer – Rust va Golang asosida ishonchli serverlar va mikroxizmatlar quraman  
+🛡 Secure Software Enthusiast – dasturlarni nafaqat samarali, balki xavfsiz yozishni maqsad qilganman  
+🚀 Cyber Security bilimlarini amaliyotga tatbiq etib, xavfsiz backend tizimlar ishlab chiqishga intilaman  
+📍 O‘zbekiston  
+
+---
+
+## 🌐 Vizual intro
 
 <div align="center">
-  <svg width="500" height="140" viewBox="0 0 500 140" xmlns="http://www.w3.org/2000/svg">
-
-    <!-- Server -->
-    <rect x="40" y="40" width="80" height="60" rx="8" fill="#2563eb" />
-    <text x="80" y="75" text-anchor="middle" fill="white" font-size="12" font-family="monospace">Server</text>
-
-    <!-- Client -->
-    <rect x="380" y="40" width="80" height="60" rx="8" fill="#16a34a" />
-    <text x="420" y="75" text-anchor="middle" fill="white" font-size="12" font-family="monospace">Client</text>
-
-    <!-- Network cloud -->
-    <ellipse cx="250" cy="70" rx="60" ry="30" fill="#e5e7eb" stroke="#9ca3af" stroke-width="1.5"/>
-    <text x="250" y="75" text-anchor="middle" fill="#374151" font-size="12" font-family="monospace">Network</text>
-
-    <!-- Arrows -->
-    <line x1="120" y1="70" x2="190" y2="70" stroke="#2563eb" stroke-width="2" marker-end="url(#arrow)" />
-    <line x1="310" y1="70" x2="380" y2="70" stroke="#16a34a" stroke-width="2" marker-end="url(#arrow)" />
-
-    <!-- Data packet -->
-    <circle r="6" fill="#f97316">
-      <animateMotion dur="3s" repeatCount="indefinite" path="M120,70 L190,70 L310,70 L380,70" />
-    </circle>
-
-    <!-- Arrow marker -->
-    <defs>
-      <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
-        <path d="M0,0 L0,6 L9,3 z" fill="#6b7280" />
-      </marker>
-    </defs>
-
-  </svg>
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/network.gif" alt="Network Animation" width="500"/>
 </div>
-
 
 
 ## 🔧 Texnologiyalar
