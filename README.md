@@ -44,7 +44,7 @@
 <table>
   <tr>
 
-  <td valign="top" width="30%">
+  <td valign="top" width="40%">
 
 ### 🟦 Golang
 <ul>
@@ -82,7 +82,7 @@
 </ul>
 
 </td>
-<td valign="top" width="30%">
+<td valign="top" width="40%">
 
 ### 🐍 Python
 <ul>
