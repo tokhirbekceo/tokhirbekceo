@@ -44,7 +44,7 @@
 <table>
   <tr>
 
-  <td valign="top" width="40%">
+  <td valign="top" width="33%">
 
 ### 🟦 Golang
 <ul>
@@ -82,7 +82,7 @@
 </ul>
 
 </td>
-<td valign="top" width="40%">
+<td valign="top" width="33%">
 
 ### 🐍 Python
 <ul>
@@ -126,7 +126,7 @@
   ##🗄 Ma'lumotlar Boshqaruv Tizimlari (DBMS)
 
 
-  <td valign="top" width="40%">
+  <td valign="top" width="34%">
 
 ### 🔷 SQL DBMS
 <ul>
