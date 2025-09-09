@@ -122,13 +122,9 @@
 </ul>
 
   </td>
-## 🗄 Ma'lumotlar Boshqaruv Tizimlari (DBMS)
-
     <!-- Chap taraf: SQL -->
   ## 🗄 Ma'lumotlar Boshqaruv Tizimlari (DBMS)
 
-<table>
-  <tr>
     <!-- Chap taraf: SQL -->
     <td valign="top" width="50%">
 
