@@ -154,13 +154,29 @@
 
 
 
-### ⚙️ Vositalar
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/> Docker  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20"/> Kubernetes (k8s)  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="20"/> AWS (EC2, S3, RDS, Lambda)  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="20"/> GCP  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> Git & GitHub  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/> Linux  
-- <img src="https://img.icons8.com/color/48/cpanel.png" width="20"/> cPanel / WHM  
-- <img src="https://img.icons8.com/color/48/nginx.png" width="20"/> Nginx / Apache  
+## ⚙️ Vositalar
+
+<details>
+  <summary>💻 DevOps & Cloud</summary>
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/> Docker  
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20"/> Kubernetes (k8s)  
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="20"/> AWS (EC2, S3, RDS, Lambda)  
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="20"/> GCP  
+</details>
+
+<details>
+  <summary>🛠 Version Control & Servers</summary>
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> Git & GitHub  
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/> Linux  
+  - <img src="https://img.icons8.com/color/48/cpanel.png" width="20"/> cPanel / WHM  
+  - <img src="https://img.icons8.com/color/48/nginx.png" width="20"/> Nginx / Apache  
+</details>
+
+<details>
+  <summary>⚙️ Infrastructure as Code & Automation</summary>
+  - <img src="https://img.icons8.com/color/48/terraform.png" width="20"/> Terraform  
+  - <img src="https://img.icons8.com/color/48/ansible.png" width="20"/> Ansible  
+  - <img src="https://img.icons8.com/color/48/puppet.png" width="20"/> Puppet  
+</details>
+
 
