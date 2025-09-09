@@ -9,7 +9,6 @@
 
 <table>
   <tr>
-    <!-- Chap taraf: Loyihalar -->
     <td width="50%" valign="top">
 
       ### 🚀 Loyihalarim
@@ -20,7 +19,6 @@
 
     </td>
 
-    <!-- O‘ng taraf: Maqolalar -->
     <td width="50%" valign="top">
 
       ### ✍️ Maqolalarim
