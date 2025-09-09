@@ -36,7 +36,7 @@
 <table>
   <tr>
     <!-- Chap taraf: Texnologiyalar -->
-    <td valign="top" width="50%">
+    <td valign="top" width="30%">
 
 ### 🖥 Dasturlash tillari & Frameworklar
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python: FastAPI, Django, DRF, Aiogram3, Tkinter, WxPython  
@@ -50,20 +50,10 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20"/> MongoDB  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="20"/> SQLite  
 
-### ⚙️ Vositalar
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/> Docker  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20"/> Kubernetes (k8s)  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="20"/> AWS (EC2, S3, RDS, Lambda)  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="20"/> GCP  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> Git & GitHub  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/> Linux  
-- <img src="https://img.icons8.com/color/48/cpanel.png" width="20"/> cPanel / WHM  
-- <img src="https://img.icons8.com/color/48/nginx.png" width="20"/> Nginx / Apache  
-
     </td>
 
     <!-- O‘ng taraf: Cyber Security -->
-    <td valign="top" width="50%">
+    <td valign="top" width="30%">
 
 ### 🛡 Cyber Security
 - 🔎 <b>Penetration Testing</b>  
@@ -93,6 +83,19 @@
   - <img src="https://img.icons8.com/ios/50/search.png" width="20"/> Autopsy  
   - <img src="https://img.icons8.com/ios/50/data-encryption.png" width="20"/> Volatility  
   - <img src="https://img.icons8.com/ios/50/globe.png" width="20"/> Maltego  
+
+    </td>
+    <td valign="top" width="30%">
+      
+### ⚙️ Vositalar
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/> Docker  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20"/> Kubernetes (k8s)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="20"/> AWS (EC2, S3, RDS, Lambda)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="20"/> GCP  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> Git & GitHub  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/> Linux  
+- <img src="https://img.icons8.com/color/48/cpanel.png" width="20"/> cPanel / WHM  
+- <img src="https://img.icons8.com/color/48/nginx.png" width="20"/> Nginx / Apache  
 
     </td>
   </tr>
